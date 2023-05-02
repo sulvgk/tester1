@@ -62,6 +62,8 @@ void f_4_Cifry_Chisla (float fchislo);
 void f_strelka_vlevo_OK_strelka_vpravo_na_ekran (uint8_t* pstrelka_vlevo, uint8_t* pOK, uint8_t* pstrelka_vpravo);
 void f_cikl_na_ekran (uint8_t* pbuf);
 void f_ClearBlock (uint8_t xStart, uint8_t xEnd, uint8_t yStart, uint8_t yEnd);
+// ok
+
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
